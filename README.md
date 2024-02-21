@@ -27,7 +27,7 @@ Welcome to the classic game of Tic Tac Toe! This web-based implementation of Tic
 
 ## Screenshots
 
-## Demo
+## Demo  https://mrsurajpawar.github.io/Tic-Tac-Toe/
 
 ## Contributing
 Feel free to contribute to the project by forking the repository, making improvements, and creating a pull request. Bug reports and feature requests are also welcome!
